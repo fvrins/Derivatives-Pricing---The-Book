@@ -1,4 +1,4 @@
-This repository provides de supplementary material for the book by Frédéric Vrins, "Derivatives Pricing", Cambridge University Press, 2005. See https://www.cambridge.org/highereducation/books/derivatives-pricing/D315080AC34EB3ACCF32F460D33E43F7#overview
+This repository provides the supplementary material for the book by Frédéric Vrins, "Derivatives Pricing", Cambridge University Press, 2025. See https://www.cambridge.org/highereducation/books/derivatives-pricing/D315080AC34EB3ACCF32F460D33E43F7#overview
 
 The repository contains several zip archives featuring
   - R codes associated with the examples and figures in the book
